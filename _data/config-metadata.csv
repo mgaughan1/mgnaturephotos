@@ -13,7 +13,3 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-typeofcamera,Type of Camera
-originalformat,Original Format
-filesize,File Size
-alternativetext,Alternative Text
